@@ -1,4 +1,4 @@
-// Example 1,2 and 3 shows the basic usage of using function
+// Example 1, 2, 3, 4 and 5 shows the basic usage of using function
 
 // Example1
 #include <iostream>
@@ -66,4 +66,55 @@ int function(){
     cout << "Bye! from function before exit\n";
     return(0);
     cout << "Bye! from function before exit\n";
+}
+
+// Example 4
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+float distance(float x, float y)
+{
+    float dist;
+    dist = sqrt (x * x + y * y);
+    return dist;
+}
+
+int main ()
+{
+    float x,y, dist;
+    cout << "Testing function distance(x,y)" << endl;
+    cout << "Enter values for x and y: ";
+    cin >> x >> y;
+    dist = distance (x,y);
+    cout << "Distance of (" << x << ',' << y << ") from origin is " << dist << endl << "Tested" << endl;
+
+    return 0;
+}
+
+// Example 5
+#include <iostream>
+using namespace std;
+
+int calculateSum (int, int); // just put the data type
+int calculateDiff (int, int);
+
+int main () {
+    int num1, num2;
+    cout << "Enter two integers: ";
+    cin >> num1 >> num2;
+
+    int sum = calculateSum (num1, num2);
+    int diff = calculateDiff (num1, num2);
+
+    cout << "Sum: " << sum << endl;
+    cout << "Diff: " << diff << endl;
+}
+
+int calculateSum (int n1, int n2) {
+    return n1 + n2;
+}
+
+int calculateDiff (int n1, int n2) {
+    return n1 - n2;
 }
