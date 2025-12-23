@@ -1,5 +1,6 @@
-// This program shows the basic usage of using function
+// Example 1,2 and 3 shows the basic usage of using function
 
+// Example1
 #include <iostream>
 using namespace std;
 
@@ -19,4 +20,50 @@ void testDefaultParam(int a, int b, double z) {
     u = a + b * z;
     cout << "a = " << a << endl;
     cout << "U = " << u << endl;
+}
+
+// Example 2
+// This programs has two functions: main and displayMessage
+#include <iostream>
+using namespace std;
+
+//*****************************************
+// Definition of function displayMessage  *
+// This function displays a greeting.     *
+//*****************************************
+
+void displayMessage ()
+{
+    cout << "Hello from the function displayMessage.\n";
+}
+
+//*****************************************
+// Function main                          *
+//*****************************************
+
+int main ()
+{
+    cout << "Hello from main.\n";
+    displayMessage ();
+    cout << "Back in function main again.\n";
+    
+    return 0;
+}
+
+// Example 3
+#include <iostream>
+using namespace std;
+
+int function();
+int main(){
+    function();
+    cout << "Bye from main.\n";
+    system ("pause");
+    return 0;
+}
+
+int function(){
+    cout << "Bye! from function before exit\n";
+    return(0);
+    cout << "Bye! from function before exit\n";
 }
