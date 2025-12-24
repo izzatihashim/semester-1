@@ -1,0 +1,101 @@
+// This program can help a user to convert their money from one to another
+// then it will ask the user on how do they want their money back until all money are returned
+
+#include <iostream>
+#include <cmath>
+#include <cstring>
+using namespace std;
+
+
+char currency_menu()
+{
+    char code = 0;
+    cout << endl;
+    cout << "Pick a currency to convert from:" << endl;
+    cout << "I. Indonesian Rupiah (IDR)" << endl;
+    cout << "B. Bangladeshi Taka  (BDT)" << endl;
+    cout << "C. Chinese Yuan  (CNY)" << endl << endl;
+    
+    cout << "Choose a code => ";
+    cin >> code;
+    return code;
+}
+
+void choice_menu (int a) {
+    cout << "How would you like your money?" << endl;
+
+    if (a >= 100) cout << "A. MYR 100" << endl;
+    if (a >= 50) cout << "B. MYR 50" << endl;
+    if (a >= 20) cout << "C. MYR 20" << endl;
+    if (a >= 10) cout << "D. MYR 10" << endl;
+    if (a >= 5) cout << "E. MYR 5" << endl;
+    if (a >= 1) cout << "F. MYR 1"<< endl;
+    
+}
+
+double choice_value (char b) {
+    switch (b) {
+        case 'A': return 100.0;
+        case 'B': return 50.0;
+        case 'C': return 20.0;
+        case 'D': return 10.0;
+        case 'E': return 5.0;
+        default: return 1.0;
+    }
+}
+
+int main()
+{
+    char currency, choice;
+    double money, exchange_rate;
+    currency = currency_menu();
+    string symbol;
+
+    if (currency == 'I') {
+        symbol = "IDR";
+        exchange_rate = 0.000286;
+    }
+
+    else if (currency == 'B') {
+        symbol = "BDT";
+        double exchange_rate = 0.0378;
+    }
+
+    else {
+        symbol = "CNY";
+        exchange_rate = 0.62;
+    }
+
+    cout << "Enter the amount of money in your original currency " << symbol << " => ";
+    cin >> money;
+
+    money = money * exchange_rate;
+    cout << "\nYour conversion money is MYR " << money << endl;
+    money = ceil(money);
+    cout << "You will get MYR " << money << endl << endl;
+
+    while (money != 0) {
+        choice_menu (money);
+
+        cout << "\nChoose a bank note => ";
+        cin >> choice;
+
+        double conversion  = choice_value (choice);
+        int value = money / conversion;
+        int product = value * conversion;
+        money = money - product;
+
+        cout << "\nYour money in bank note MYR "<< conversion << " : " << conversion << " x " << value << " = " << "MYR " << product << endl;
+
+        if (money != 0)
+        cout << "You still have a balance of MYR " << money << endl << endl;
+    }
+
+    cout << "\nThere you go. You have all your money back" << endl;
+    cout << "Have a nice day!" << endl;
+
+
+    cout << endl;
+    system("pause");
+    return 0;
+}
