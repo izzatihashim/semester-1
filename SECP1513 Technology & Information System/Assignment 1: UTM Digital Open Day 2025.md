@@ -17,7 +17,7 @@ We distributed the tasks between team members to ensure every information and ma
 | Members | Tasks
 | :--- | :---
 | Izzati Liyana | Interviewer, researcher, record videos
-| Fairuz | Editor, record videos & photos
+| Fairuz | Editor, researcher, record videos & photos
 | Chia Yu Hen | Researcher, take photos
 
 ## 💡 Summary
