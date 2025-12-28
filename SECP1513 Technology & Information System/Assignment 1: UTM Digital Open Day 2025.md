@@ -1,5 +1,5 @@
 # Assignment 1: UTM Digital Open Day 2025
-## 🏢 About this assignment
+## 🏢 Details
 **Date:** 28 & 29 December 2025 <br>
 **Venue:** UTM Digital <br>
 **Involvements:** SECP1513 Section 02 students accompanied by Dr.Aryati <br>
