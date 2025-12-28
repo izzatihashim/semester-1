@@ -3,7 +3,8 @@
 **Date:** 28 & 29 December 2025 <br>
 **Venue:** UTM Digital <br>
 **Involvements:** SECP1513 Section 02 students accompanied by Dr.Aryati <br>
-**Task:** Video about the whole experience of the visit
+**Task:** Video about the whole experience of the visit <br>
+### 📸 Click [here]() to watch the video!
 
 ## 🎉 Activities
 - Fun activities organized by UTM Digital staffs with small prizes. <br>
@@ -35,12 +36,24 @@ We distributed the tasks between team members to ensure every information and ma
 
 ### 🖥 — Booths
 - **Booth 1: D-RON** <br>
--> This booth showcased their advanced video surveilance technology, equipped with video intelligence
+-> This booth showcased their advanced video surveilance technology, equipped with intelligent videos and access control. This booth was so interesting to me as I get to try the surveilance itself and observe how it detects moving objects and shows a complete analysis of it.
+- **Booth 2: MICROCORP**
+-> Specialised in implementing ARCHIBUS®, this booth promotes the highest choosen solution for real estate, infrastructure and facilities management. I was amazed to see how digital technology is used to efficiently manage works such as maintanence in buildings and infrastructure by making it easier to access and at faster rate.
+- **Booth 3: Tec D**
+--> This booth promotes Tec D which is now a part TD SYNNEX and known for providing many different kinds of IT services. It was a very interesting booths that relates to my field of study.
 
 ## 📝 Reflections
-The whole visit has gave me a very great experience and with lots of new takeaways for my upcoming life joruney. It was very inspring to see how the digital world has transformed and I also managed to get a clearer picture on how my worklife will be looking like in the near future.  
+The whole visit has gave me a very great experience with lots of new takeaways for my upcoming life joruney. It was very inspring to see how the digital world has transformed and I also managed to get a clearer picture on how my worklife will be looking like in the near future. Not only that, I also got the amazing opportunity to interview and ask questions to distinguished speakers and collaborators as one of the way to expand my networks and broaden my knowledge about IT and tech. Overall, I really enjoyed this visit and will be looking forward for similar opportunity like this in this future.  
 
 ## 📌 Improvement Suggestions
+- Add more interactive booths where students can be actively involved and interesting prizes or activities that can attract more students especially for the sharing session
 
 ## 📸 Visual Highlights
+Some of the pictures during the visit.
+![photo_2025-12-28_20-06-28](https://github.com/user-attachments/assets/d48b8f2f-c0d6-4bbd-91bb-f256287279c4)
+*Sharing session on the topic of Real Insights of Data Engineering by  Mr. Zahari bin Supene*
+
+![photo_2025-12-28_20-13-35](https://github.com/user-attachments/assets/e93d1a8b-e036-46ac-b792-8057f913eb35)
+*D-RON Booth*
+
 
