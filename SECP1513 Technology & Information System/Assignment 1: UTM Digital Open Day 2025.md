@@ -20,7 +20,7 @@ We distributed the tasks between team members to ensure every information and ma
 | Chia Yu Hen | Researcher, take photos
 
 ## 💡 Summary
-### 🗣 1 — Talks and sharing sessions
+### 🗣 — Talks and sharing sessions
 - **Talk 1: Information System by Hj. Madradzi bin Muhammad** <br>
 -> This talk highlighted about the Information System in UTM, specifically at UTM Digital, that plays a major role in serving the digital services at UTM. I have learnt about UTM Digital and how they are implemented in the management system such as UTM Smart as well as the behind process of developing it. He also shared about UI/UX which is a User-Centred Design that is used in UTM Smart and blockchain technology which is a secure ecosystem & environment. Not only that, he also talked about the emerging technologies of AI and how its implementation in UTM Servies, such as AI photo validator and a mini chat bot called FlowiseAI.
 
@@ -34,9 +34,11 @@ We distributed the tasks between team members to ensure every information and ma
 -> This talk about software development and project management gave me some new insights and experiences that can surely help me in my future career. He taught us how to ensure a successful project, a proper system development process and development tools that support UTM Digital services. Not only that, he also shared about several practical methods into approaching a successful project development. 
 
 ### 🖥 — Booths
-- 
+- **Booth 1: D-RON** <br>
+-> This booth showcased their advanced video surveilance technology, equipped with video intelligence
 
 ## 📝 Reflections
+The whole visit has gave me a very great experience and with lots of new takeaways for my upcoming life joruney. It was very inspring to see how the digital world has transformed and I also managed to get a clearer picture on how my worklife will be looking like in the near future.  
 
 ## 📌 Improvement Suggestions
 
