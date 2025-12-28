@@ -38,6 +38,4 @@ This session has given me a clearer view on the PPG as a global company. Not onl
 *Group photo with everyone involved in the session*
 
 ## 🖼 Poster
-![photo_2025-12-28_23-18-42](https://github.com/user-attachments/assets/58fa7ce2-b033-46e7-aecf-a20d58067708)
-
-
+![TIS G9 Poster_page-0001](https://github.com/user-attachments/assets/9123e5f9-dbc7-48f1-ba1d-27e5a86bb452)
