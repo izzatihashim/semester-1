@@ -28,7 +28,7 @@
 This session has given me a clearer view on the PPG as a global company. Not only that, this session also let me understand about the roles and opportunities that I might get in the future as I dive deeper into the technology field. The explanation about global infrastructure, data analytics and SAP are also a very beneficial and great knowledge that I will values as a Computer Science student. I was left impressed with all the informations I have obtained about PPG that showcased how PPG is an undeniably great company to be collaborating with. Overall, I'm looking forward for more opportunities like this again in the future as it can widen my prospects and knowledge in the digital industry.
 
 ## 📌 Improvement Suggestions
-- Increase the capacity of students that can attend so that students from other programs can also physically attend the session as it is more enjoyable and effective.
+- Increase the capacity of students that can attend so that students from other programs can also physically attend the session.
 
 ## 📸 Visual Highlights
 ![photo_2025-12-28_22-46-31](https://github.com/user-attachments/assets/5a05827d-600b-45bd-bc86-056a843d6ebb)
