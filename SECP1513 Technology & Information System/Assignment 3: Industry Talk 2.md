@@ -25,7 +25,7 @@ This talk was genuinely an eyes-opening session as I get to learnt about Project
 
  ## 📸 Visual Highlights
  ![photo_2025-12-29_00-57-04](https://github.com/user-attachments/assets/5d1a3061-45f9-4c1f-b672-4f10b8b6e9c5)
- *One of the presentation slide during the session*
+ *One of the presented slide during the session*
 
  ![photo_2025-12-29_00-57-06](https://github.com/user-attachments/assets/3e2fbe4c-7b94-4868-bce4-20eacaa0d4ef)
  *Group photo with everyone involved in the session*
