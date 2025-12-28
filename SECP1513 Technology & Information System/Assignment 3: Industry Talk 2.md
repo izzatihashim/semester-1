@@ -17,7 +17,7 @@ He taught us on how to view this in several different ways, and one of them is b
 Other than that, Tuan Alim also shared about the new era we are advancing into, that is the the Agentic Coding era. He highlighted how using AI is now valued in most company, as it can improve the whole productivity, reduce costs and assist in bulding complex designs. It is not about 100% asking the AI to do everything, but it's leaning towards using AI as an assistant that can do the small and syntax parts while you do the big and hard part such as the architecture and System Design.
 
 ## 📝 Reflections
-This talk was genuinely an eyes-opening session as I get to learnt about Project Management & System Development in a way that I never had before. The examples that was given by the speaker gave me a very clear understanding of this whole session. Not only that, I also learnt how AI skills has becoming more valuable and essential in the upcoming years. Overall, I will surely apply what I have learnt here into real-life practice to continuosly improve myself yo become a successful Data Engineer.  
+This talk was genuinely an eyes-opening session as I get to learnt about Project Management & System Development in a way that I never had before. The examples that was given by the speaker gave me a very clear understanding of this whole session. Not only that, I also learnt how AI skills has becoming more valuable and essential in the upcoming years. Overall, I will surely apply what I have learnt here into real-life practice to continuosly improve myself and become a successful Data Engineer.  
 
  ## 📌 Improvement Suggestions
  - Increase the capacity of students that can attend so that students from other programs can also physically attend the session.
