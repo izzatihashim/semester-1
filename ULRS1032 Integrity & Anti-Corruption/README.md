@@ -1,7 +1,7 @@
-# 
+# ULRS1032 Integrity & Anti-Corruption
 ## 👩‍🏫 About the course
-**Lecturer:**  <br>
-**Section:** 02 <br>
+**Lecturer:** Dr. Fahrul Irfan bin Ishak <br>
+**Section:** 14 <br>
 
 ## 📚 Topics covered in this course
 Chapter 1:  <br>
@@ -14,8 +14,11 @@ Chapter 7:  <br>
 Chapter 8:  <br>
 
 ## 📝 Method of assesment
-| Topic | Name | Format | Type | Status
-| :--- | :--- | :--- | :--- | :---
+| Name | Type | Status
+| :--- | :--- | :---
+Test | Individual | Done
+PSA Video | Grouping | Done
+Poster | Grouping | Done
 
 ## 🌟 Reflection of the course
 
