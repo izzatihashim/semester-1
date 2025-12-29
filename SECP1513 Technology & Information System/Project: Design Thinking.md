@@ -21,11 +21,11 @@ From the survey results, we found that students often struggle to find seats, es
 - **Stage 3:** Ideate <br>
 With a clear problem identified, we conducted a brainstorming session where all members shared ideas. We decided to design a feature that displays a list of study spaces across campus along with their occupancy levels. The solution also includes filters to help students find spaces based on their preferences, as well as detailed information such as seating capacity.
 - **Stage 4:** Prototype <br>
-We created a low-fidelity prototype by sketching the interface to demonstrate how the solution would work. The prototype focused on meeting users’ needs and improving study space utilization.
+We created a low-fidelity prototype by sketching the interface to demonstrate how the solution would work. We also created the prototype in Canva to show a more visualised and clearer version of it. The prototype focused on meeting users’ needs and improving study space utilization.
 - **Stage 5:** Testing <br>
 We tested the prototype by inviting students to try it and provide feedback. Their responses helped us identify what worked well and what needed improvement. Based on the feedback, we refined the prototype to better meet users’ needs.
 
 ## 📝 Reflections
-This design thinking project has helped me gain a clearer understanding of how to successfully manage a project by using a real-world problem. Going through different phases allowed me to better understand the issue and design an effective solution. The project also strengthened my critical thinking, problem-solving, and teamwork skills, which are essential for my future career. Overall, I wish to apply everything that I had learned while making this project into the future projects and assignments that I will be doing.
+This design thinking project has helped me gain a clearer understanding of how to successfully manage a project by using a real-world problem. Going through different phases allowed me to better understand the issue and design an effective solution. The project also strengthened my critical thinking, problem-solving, and teamwork skills, which are essential for my future career. Overall, I wish to apply everything that I had learned while making this project into future projects and assignments that I will be doing.
 
 ## 📸 Visual Highlights
