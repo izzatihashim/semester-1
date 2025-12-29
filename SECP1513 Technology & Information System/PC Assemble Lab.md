@@ -1,3 +1,4 @@
+# Lab: PC Assemble
 ## 🏢 Details
 **Date:** 30 October 2025 <br>
 **Time:** 3.30pm - 5.00pm <br>
