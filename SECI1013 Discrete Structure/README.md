@@ -12,6 +12,7 @@ Chapter 5: Finite Automata <br>
 
 ## 📝 Method of assesment
 | Name | Type | Status
+| :--- | :--- | :---
 | Quiz 1 | Individual | Done
 | Quiz 2 | Individual | Done
 | Quiz 3 | Individual | Not yet started
