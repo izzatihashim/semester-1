@@ -1,7 +1,7 @@
 ## 🏢 Details
 **Date:** 30 October 2025 <br>
 **Time:** 3.30pm - 5.00pm <br>
-**Involvements:** SECP1513 02 Students <br>
+**Involvements:** SECP1513 Section 02 Students <br>
 
 ## 💡 Summary
 This lab session gives students the opportunity to gain hands-on experience in disassembling and assembling a PC. It started off with the briefing session by the staff on how to handle each components, starting from removing the wires, power supply, RAM, hard disk, and the cooling fan at last. The students were also divided into several small groups to ensure everyone will be able to experience it. After successfully disassembling it, we had to assemble it back component by component and step by step, and went through a testing session to check whether the components are assembled correctly and can resume its function. At the end of the session, a quiz was conducted with questions related to the session.
