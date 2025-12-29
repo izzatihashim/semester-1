@@ -4,7 +4,7 @@
 **Venue:** UTM Digital <br>
 **Involvements:** SECP1513 Section 02 students accompanied by Dr.Aryati <br>
 **Task:** Video about the whole experience of the visit <br>
-### 📸 Click [here]() to watch the full video!
+### 📸 Click []() to watch the full video!
 
 ## 🎉 Activities
 - Fun activities organized by UTM Digital staffs with small prizes. <br>
