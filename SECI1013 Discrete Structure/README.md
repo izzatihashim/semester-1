@@ -25,3 +25,4 @@ Chapter 5: Finite Automata <br>
 | Final Exam | Individual | Not yet started
 
 ## 🌟 Reflection of the course
+This course has taught me the mathematical knowledge that is essential in the Computer Science field for solving problems and designing solutions. Not only that, this course has also enhanced my critical thinking, problem solving and decision making skills as I had to apply them when solving mathematical problems. I had also polished my soft skills by doing group assignments as we all work together to the success of our project. Overall, this course is essential and beneficial to us students especially Computer Science students as we all needs the mentioned skills to apply them when designing system, troubleshooting and leading a project. 
