@@ -30,4 +30,4 @@ Chapter 8: Structured Data <br>
 
 
 ## 🌟 Reflection of the course
-
+From this course, I have learned bits of coding that will be playing a huge role in my academic journey as a Computer Science student. 
