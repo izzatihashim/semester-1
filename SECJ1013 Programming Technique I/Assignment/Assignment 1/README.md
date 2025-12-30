@@ -2,7 +2,7 @@
 ## 🏢 Details
 **Topic**: Flowchart <br>
 **Task:** Build a flowchart based on a given question <br>
-**Date:** 3 November 2025 <br>
+**Submission:** 3 November 2025 <br>
 
 | Members | Name
 | :--- | :---
