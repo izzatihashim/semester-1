@@ -28,4 +28,4 @@ Chapter 9: Shift Registers
 | Final Exam | Individual | Not yet started
 
 ## 🌟 Reflection of the course
-
+From this course, I had obtained valuable knowledges espacially on how to apply the digital logic concepts into solving theoretical and practical problems. I learned the concepts of numbering systems, Boolean algebra, logic circuits, and the components and features of logic gates used in computers. The lab sessions have further strenghten my understandings on these concepts, enhancing both the ability to work in group and hands-on skill. This course also developed my normative skill and crtical thinking during solving logic problems and designing project. Overall, this course provided many crucial takeways that I'll be applying in my future studies.
