@@ -1,7 +1,7 @@
 # Assignment 3: Serunai Industry Talk
 ## 🏢 Details
 **Date:** 18 December 2025 <br>
-**Time:** 2.30pm - 3.30pm
+**Time:** 2.30pm - 3.30pm <br>
 **Venue:** Hyflex Classrom, N29A <br>
 **Involvements:** All SECPH students <br>
 **Task:** Academic writing about the summary of the talk <br>
