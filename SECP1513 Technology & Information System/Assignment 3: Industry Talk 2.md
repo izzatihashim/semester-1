@@ -5,7 +5,8 @@
 **Venue:** Hyflex Classrom, N29A <br>
 **Involvements:** All SECPH students <br>
 **Task:** Academic writing about the summary of the talk <br>
-### 📕 Read the academic writing []()
+### 📕 Read the academic writing [here](https://github.com/user-attachments/files/24380198/G9.TIS.Academic.Writing.pdf)
+
 
 ## 💡 Summary
 - **🗣 Speaker:** Tuan Hj. Abdul Alim <br>
