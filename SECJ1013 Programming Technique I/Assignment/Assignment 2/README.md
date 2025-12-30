@@ -2,7 +2,7 @@
 ## 🏢 Details
 **Topic**: C++ Programming <br>
 **Task:** Program a C++ program  <br>
-**Date:** 29 December 2025 <br>
+**Submission:** 29 December 2025 <br>
 
 | Members | Name
 | :--- | :---
