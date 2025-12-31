@@ -30,4 +30,8 @@ We tested the prototype by inviting students to try it and provide feedback. The
 This design thinking project has helped me gain a clearer understanding of how to successfully manage a project by using a real-world problem. Going through different phases allowed me to better understand the issue and design an effective solution. The project also strengthened my critical thinking, problem-solving, and teamwork skills, which are essential for my future career. Overall, I wish to apply everything that I had learned while making this project into future projects and assignments that I will be doing.
 
 ## 📸 Visual Highlights
+![photo_2025-12-31_14-14-31](https://github.com/user-attachments/assets/2caaafd5-d2b4-48e0-a9ec-475b5fd6a1c1)
+*Conduction of interview*
 
+![photo_2025-12-31_14-14-33](https://github.com/user-attachments/assets/4d6bbf57-185a-42fb-9563-d37f47fe7e25)
+*Prototype testing*
