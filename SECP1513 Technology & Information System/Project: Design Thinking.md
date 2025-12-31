@@ -1,6 +1,8 @@
 # Project: Design Thinking
 ## 🏢 Details
-For our first Technology & Information System project, we were tasked to apply the process of design thinking into creating a solution for a real-world problem. After that, we are required to present our findings into a demostration **video**, full **report** and **present** it during class session.
+For our first Technology & Information System project, we were tasked to apply the process of design thinking into creating a solution for a real-world problem. After that, we are required to present our findings into a demostration **video**, full **report** and **present** it during class session. <br>
+### 🎞 Click [here](https://youtu.be/Dbd0u3IIMYM) to watch our video on Youtube!
+
 
 ## 👥 Task Distribution
 We distributed the tasks between team members to ensure every our project can be done smoothly and efficiently.
@@ -29,3 +31,4 @@ We tested the prototype by inviting students to try it and provide feedback. The
 This design thinking project has helped me gain a clearer understanding of how to successfully manage a project by using a real-world problem. Going through different phases allowed me to better understand the issue and design an effective solution. The project also strengthened my critical thinking, problem-solving, and teamwork skills, which are essential for my future career. Overall, I wish to apply everything that I had learned while making this project into future projects and assignments that I will be doing.
 
 ## 📸 Visual Highlights
+
