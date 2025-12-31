@@ -3,7 +3,6 @@
 For our first Technology & Information System project, we were tasked to apply the process of design thinking into creating a solution for a real-world problem. After that, we are required to present our findings into a demostration **video**, full **report** and **present** it during class session. <br>
 ### 🎞 Click [here](https://youtu.be/Dbd0u3IIMYM) to watch our video on Youtube!
 
-
 ## 👥 Task Distribution
 We distributed the tasks between team members to ensure every our project can be done smoothly and efficiently.
 | Members | Tasks
