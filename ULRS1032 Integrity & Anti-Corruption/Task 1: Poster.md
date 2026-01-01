@@ -7,13 +7,11 @@
 ## 🏢 Details
 **Involvements:** ULRS1032 Section 14 <br>
 **Task:**  <br>
-### 📸 Click [here]() to watch the full video!
 
 ## 👥 Task Distribution
 We distributed the tasks between team members to ensure every information and materials are collected during the event and managed smoothly after the event.
 | Members | Tasks
 | :--- | :---
-| Izzati Liyana | 
 
 ## 💡 Summary
 
