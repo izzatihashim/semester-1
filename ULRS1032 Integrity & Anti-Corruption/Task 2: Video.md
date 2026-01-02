@@ -13,6 +13,8 @@
 We distributed the tasks between team members to ensure every information and materials are collected during the event and managed smoothly after the event.
 | Members | Tasks
 | :--- | :---
+| Izzati Liyana | Actor, Video Editor
+
 
 ## 💡 Summary
 
