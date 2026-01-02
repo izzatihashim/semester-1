@@ -15,7 +15,7 @@ We distributed the tasks between team members to ensure every information and ma
 | :--- | :---
 | Main Actor | Farah, Mursyidah, Liyana, Balqis, Fariza, Qistina
 | Side Actor | Najla, Ain, Nazirah, Hanan
-| Video Editor | Liya, Nazirah
+| Video Editor | Liyana, Nazirah
 
 ## 💡 Summary
 
