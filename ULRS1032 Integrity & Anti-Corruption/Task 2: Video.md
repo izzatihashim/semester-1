@@ -16,6 +16,9 @@ We distributed the tasks between team members to ensure every information and ma
 | Izzati Liyana | Actor, Video Editor
 | Farah Adilah | Actor, Poster Presentor
 | Mursyidah | Actor, Poster Presentor
+| Najla Auni | Poster Editor, Report Writer
+| Nazirah Hanis | Poster & Video Editor
+
 
 
 ## 💡 Summary
