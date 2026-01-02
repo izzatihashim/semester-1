@@ -11,15 +11,11 @@
 
 ## 👥 Task Distribution
 We distributed the tasks between team members to ensure every information and materials are collected during the event and managed smoothly after the event.
-| Members | Tasks
+| Roles | Members
 | :--- | :---
-| Izzati Liyana | Actor, Video Editor
-| Farah Adilah | Actor, Poster Presentor
-| Mursyidah | Actor, Poster Presentor
-| Najla Auni | Poster Editor, Report Writer
-| Nazirah Hanis | Poster & Video Editor
-
-
+| Main Actor | Farah, Mursyidah, Liyana, Balqis, Fariza, Qistina
+| Side Actor | Najla, Ain, Nazirah, Hanan
+| Video Editor | Liya, Nazirah
 
 ## 💡 Summary
 
