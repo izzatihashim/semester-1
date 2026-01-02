@@ -10,8 +10,11 @@
 
 ## 👥 Task Distribution
 We distributed the tasks between team members to ensure every information and materials are collected during the event and managed smoothly after the event.
-| Members | Tasks
+| Roles | Members
 | :--- | :---
+| Editor | Ain, Najla, Nazirah, Hanan
+| Presentor | Farah, Mursyidah, Balqis, Ain
+| Report Writing | Najla, Fariza
 
 ## 💡 Summary
 
