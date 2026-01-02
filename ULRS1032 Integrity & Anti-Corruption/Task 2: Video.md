@@ -14,6 +14,8 @@ We distributed the tasks between team members to ensure every information and ma
 | Members | Tasks
 | :--- | :---
 | Izzati Liyana | Actor, Video Editor
+| Farah Adilah | Actor, Poster Presentor
+| Mursyidah | Actor, Poster Presentor
 
 
 ## 💡 Summary
