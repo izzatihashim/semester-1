@@ -19,7 +19,8 @@ Chapter 11: Institusi Sosial Dalam Pembudayaan Integriti dan Anti-Rasuah <br>
 ## 📝 Method of assesment
 | Name | Type | Status
 | :--- | :--- | :---
-Test | Individual | Done
+Test 1 | Individual | Done
+Test 2 | Individual | Not yet started
 PSA Video | Grouping | Done
 Poster | Grouping | Done
 
