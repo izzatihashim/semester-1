@@ -19,7 +19,7 @@ Chapter 9: Shift Registers <br>
 | :--- | :--- | :--- 
 | Lab 1 | Grouping | Done
 | Lab 2 | Grouping | Done
-| Lab 3 | Grouping | In progress
+| Lab 3 | Grouping | Done
 | Quiz 1 | Individual | Done
 | Quiz 2 | Individual | Done
 | Quiz 3 | Individual | Not yet started
