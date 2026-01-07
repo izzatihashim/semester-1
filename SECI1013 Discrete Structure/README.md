@@ -1,4 +1,4 @@
-# 🧮 SECI1513 Discrete Structure
+# 🧮 SECI1013 Discrete Structure
 ## 👩‍🏫 About the course
 **Lecturer:** Dr. Noorfa Haszlinna binti Mustaffa <br>
 **Section:** 02 <br>
