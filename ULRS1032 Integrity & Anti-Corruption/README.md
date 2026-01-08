@@ -20,7 +20,7 @@ Chapter 11: Institusi Sosial Dalam Pembudayaan Integriti dan Anti-Rasuah <br>
 | Name | Type | Status
 | :--- | :--- | :---
 Test 1 | Individual | Done
-Test 2 | Individual | Not yet started
+Test 2 | Individual | Done
 PSA Video | Grouping | Done
 Poster | Grouping | Done
 
