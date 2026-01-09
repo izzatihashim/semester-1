@@ -19,7 +19,7 @@ Chapter 8: Structured Data <br>
 | Lab 1 | Individual | Done
 | Lab 2 | Individual | Done
 | Lab 3 | Individual | Done
-| Lab 4 | Individual | Not yet started
+| Lab 4 | Individual | Done
 | Written Test | Individual | Done
 | Practical Test | Individual | Done
 | Assignment 1 | Grouping | Done
