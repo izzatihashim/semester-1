@@ -7,9 +7,9 @@ For our first Technology & Information System project, we were tasked to apply t
 We distributed the tasks between team members to ensure every our project can be done smoothly and efficiently.
 | Members | Tasks
 | :--- | :---
-| Izzati Liyana | Interviewer, Design Prototype, Report
-| Fairuz | Interviewer, Video Editor, Report
-| Chia Yu Hen | Collect Google Form Responses, Report
+| Izzati Liyana | Interviewer, Design Prototype, Report Writing
+| Fairuz | Interviewer, Video Editor, Report Writing
+| Chia Yu Hen | Collect Google Form Responses, Report Writing
 
 ## ⏳ Chronology
 **Our problem statement:** <br>
