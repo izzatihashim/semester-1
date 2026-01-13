@@ -1,4 +1,4 @@
-# Task 2: PSA Vide0
+# Task 2: PSA Video
 ## 🏢 Details
 **Involvements:** ULRS1032 Section 14 <br>
 **Task:** to create a PSA video on the topic of Corruption in Sports <br>
@@ -13,7 +13,7 @@ We distributed the tasks between team members to ensure equal amount of workload
 
 ## 💡 Summary
 For our second assignment, we were tasked to create a PSA Video (Public Service Announcement video) on our selected topic which is the "Corruption in Sports". Proper planning and management is crucial to complete this assignment succesfully, hence we engaged in a detailed discussion on discussing the storyplots, distributing the actor roles, planning on setup such as places and timing as well as the shooting of the video. Once everything has been properly planned and distributed, we continued with the writing of the script and dialog for each character to complement the storyline. <br>
-The shooting of the video went smoothly after 
+
 
 ## 📝 Reflections
 
