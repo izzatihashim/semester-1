@@ -1,9 +1,4 @@
 # Task 1: Poster
-## 🌷 Links to our poster's project! 
-🔗 Poster Instruction: [here](https://github.com/user-attachments/files/24380090/2.a.Tugasan.kajian.kes_Poster.docx) <br>
-🔗 Google Form: [here](https://docs.google.com/forms/d/e/1FAIpQLScZP8fd0IBJKpL9mN61zexkr1Z10aZg2yzb1rtfdZswbS4Odw/viewform?fbzx=-843493291970799666) <br>
-🔗 Poster: [here](https://drive.google.com/drive/folders/1fcjw9zQ6LbFjyedlNhZtSkokQG1M0hdm) <br>
-
 ## 🏢 Details
 **Involvements:** ULRS1032 Section 14 <br>
 **Task:** To design a poster on the topic of Corruption in Sports <br>
@@ -27,3 +22,9 @@ At the end of the assessment, I was able to gain a deeper understanding and acqu
 
 ## 📌 Improvement Suggestions
 - Organize an interactive activity, such as a Gallery Walk, where students can view each other’s posters and ask questions directly to the presenters about their work.
+
+## 🌷 Links to our poster's project! 
+🔗 Poster Instruction: [here](https://github.com/user-attachments/files/24380090/2.a.Tugasan.kajian.kes_Poster.docx) <br>
+🔗 Google Form: [here](https://docs.google.com/forms/d/e/1FAIpQLScZP8fd0IBJKpL9mN61zexkr1Z10aZg2yzb1rtfdZswbS4Odw/viewform?fbzx=-843493291970799666) <br>
+🔗 Poster: [here](https://drive.google.com/drive/folders/1fcjw9zQ6LbFjyedlNhZtSkokQG1M0hdm) <br>
+
