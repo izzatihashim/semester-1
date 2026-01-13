@@ -29,6 +29,3 @@ I had a lot of fun during the completion of this assignment as it involves many 
 🔗 Actor's lines & Storylines: [here](https://docs.google.com/document/d/1RlRtoxsn96lyrwNrifzmKPbpuYqNoJVEXCqRtoXFESk/edit?usp=sharing) <br>
 🔗 Footage & Progress: [here](https://drive.google.com/drive/folders/1DHIjzpqgfz-e7zbxn4nbgMVvghhcwsbm) <br>
 🔗 Full video: [here](https://drive.google.com/drive/folders/1fcjw9zQ6LbFjyedlNhZtSkokQG1M0hdm) <br>
-
-## 📸 Visual Highlights
-
