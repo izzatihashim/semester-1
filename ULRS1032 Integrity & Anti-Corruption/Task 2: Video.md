@@ -1,7 +1,7 @@
 # Task 2: PSA Vide0
 ## 🏢 Details
 **Involvements:** ULRS1032 Section 14 <br>
-**Task:** Create a PSA video on the topic of "Corruption in Sports" <br>
+**Task:** to create a PSA video on the topic of Corruption in Sports <br>
 
 ## 👥 Task Distribution
 We distributed the tasks between team members to ensure equal amount of workload is given to each member.
