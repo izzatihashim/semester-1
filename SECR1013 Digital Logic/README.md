@@ -22,7 +22,7 @@ Chapter 9: Shift Registers <br>
 | Lab 3 | Grouping | Done
 | Quiz 1 | Individual | Done
 | Quiz 2 | Individual | Done
-| Quiz 3 | Individual | In progress
+| Quiz 3 | Individual | Done
 | Test | Individual | Done
 | Project | Grouping | In progress
 | Final Exam | Individual | Not yet started
