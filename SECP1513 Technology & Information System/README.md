@@ -22,7 +22,7 @@ Chapter 8: Cloud Computing <br>
 | Assignment 4 | Industry Talk 3 | Newsletter | Individual | Not yet started
 | Project | Design Thinking | Video, report, presentation | Grouping | Done
 | Lab | PC Assemble | Quiz | Individual | Done
-| Midterm | Summative Test | Test | Individual | In progress
+| Midterm | Summative Test | Test | Individual | Done
 | Portfolio | Github, Linkedin, Personal website | e-Portfolio | Individual | Done
 
 ## 🌟 Reflection of the course
