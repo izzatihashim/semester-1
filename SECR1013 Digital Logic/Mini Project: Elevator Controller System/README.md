@@ -1,6 +1,6 @@
 # Mini Project: Elevator Controller System
 ## 🏢 Details
-
+(still in progress) 
 ## 👥 Task Distribution
 We distributed the tasks between team members to ensure every our project can be done smoothly and efficiently.
 | Members | Tasks
