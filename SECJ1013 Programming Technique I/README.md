@@ -24,7 +24,7 @@ Chapter 8: Structured Data <br>
 | Practical Test | Individual | Done
 | Assignment 1 | Grouping | Done
 | Assignment 2 | Grouping | Done
-| Assignment 3 | Grouping | In progress
+| Assignment 3 | Grouping | Done
 | Written Final Exam | Individual | Not yet started
 | Practical Final Exam | Individual | Not yet started
 
