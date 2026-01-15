@@ -16,7 +16,7 @@ Chapter 5: Finite Automata <br>
 | Quiz 1 | Individual | Done
 | Quiz 2 | Individual | Done
 | Quiz 3 | Individual | Done
-| Quiz 4 | Individual | Not yet started
+| Quiz 4 | Individual | Done
 | Test | Individual | Done
 | Assignment 1 | Grouping | Done
 | Assignment 2 | Grouping | Done
