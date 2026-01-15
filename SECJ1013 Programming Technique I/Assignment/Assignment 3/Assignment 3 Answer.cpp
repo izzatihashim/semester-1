@@ -1,3 +1,11 @@
+/*Name : NUR NAZIRAH HANIS BINTI NAZRI
+Matric no : A25CS0319
+Name : NURUL IZZATI LIYANA BINTI HASHIM
+No Matric : A25CS0336
+
+Date : 12/1/2026
+Set : 1*/
+
 #include <iostream>
 #include <iomanip>
 #include <fstream>
