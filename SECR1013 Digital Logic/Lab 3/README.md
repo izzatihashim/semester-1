@@ -1,5 +1,5 @@
 # Lab 3
 ## 🏢 Details
-**Topic**: <br>
-**Task**: <br>
+**Topic**:Synchronous Counter Circuit <br>
+**Task**: Build a Synchronous Counter Circuit using Deeds Simulator <br>
 **Submission**: <br>
