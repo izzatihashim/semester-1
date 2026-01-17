@@ -1,5 +1,5 @@
 # Assignment 3
 ## 🏢 Details
-**Topic**:
-**Task:**
-**Submission:**
+**Topic**: <br>
+**Task:** <br>
+**Submission:** <br>
