@@ -1,7 +1,7 @@
 # Assignment 1
 ## 🏢 Details
 **Topic**: Function <br>
-**Task:** Program a Complete C++ Program using Function  <br>
+**Task:** Program a complete C++ program using function  <br>
 **Submission:** 29 December 2025 <br>
 
 | Members | Name
