@@ -4,7 +4,7 @@
 using namespace std;
 
 int main () {
-    int SIZE = 4;
+    const int SIZE = 4;
     int numbers[SIZE] = {1, 2, 3, 4};
     int highest = numbers[0];
     for (int count = 0; count < SIZE; count++) {
