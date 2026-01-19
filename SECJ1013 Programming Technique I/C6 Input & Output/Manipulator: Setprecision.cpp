@@ -5,6 +5,7 @@
 using namespace std;
 
 int main() {
+    // setprecision : set number of s.f.
     double x = 156.74, y = 235.765, z = 9525.9874;
     cout << setprecision(5) << x << endl; // 156.74
     cout << setprecision(3) << x << endl; // 157
