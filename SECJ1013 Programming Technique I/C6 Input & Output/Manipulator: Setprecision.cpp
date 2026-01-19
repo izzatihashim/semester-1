@@ -10,6 +10,8 @@ int main() {
     cout << setprecision(3) << x << endl; // 157
     cout << setprecision(2) << x << endl; // 1.6e+02
     cout << setprecision(1) << x << endl; // 2e+02
+
+    // setprecision + fixed : set number of decimal point
     cout << fixed << setprecision(2);
     cout << x << endl << y << endl << z << endl; // x = 156.74
 
