@@ -11,7 +11,7 @@ int main() {
     cout << setprecision(2) << x << endl; // 1.6e+02
     cout << setprecision(1) << x << endl; // 2e+02
     cout << fixed << setprecision(2);
-    cout << x << endl << y << endl << z << endl; // z = 156.74
+    cout << x << endl << y << endl << z << endl; // x = 156.74
 
     return 0;
 }
