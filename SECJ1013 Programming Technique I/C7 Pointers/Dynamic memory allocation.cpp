@@ -9,7 +9,7 @@ int main () {
     double *sales, total = 0.0, average;
     int numDays, count;
 
-    cout << "Hoe many days of sales figures do you wish to process? ";
+    cout << "How many days of sales figures do you wish to process? ";
     cin >> numDays;
 
     // Dynamically allocate an array large enough to hold the days or else it would terminate
