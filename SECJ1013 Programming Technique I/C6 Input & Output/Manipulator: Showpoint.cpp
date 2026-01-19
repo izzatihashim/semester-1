@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    // showpoint : shows decimal point & trailing zeros
+    // showpoint : shows decimal point & trailing zeros until 6 s.f.
     float lots = 3.1415926535, little1 = 2.25;
     float little2 = 1.5, whole = 4.00000;
 
