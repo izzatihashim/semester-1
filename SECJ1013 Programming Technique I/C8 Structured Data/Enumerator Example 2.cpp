@@ -1,3 +1,5 @@
+// This program shows another example of enumarated data type
+
 #include <iostream>
 using namespace std;
 
@@ -40,8 +42,6 @@ int main() {
         cout << "Order cancelled" << endl;
         break;
     }
-
-    int statuss = 3;   // What does 3 mean?
 
     return 0;
 }
