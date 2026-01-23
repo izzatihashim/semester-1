@@ -8,5 +8,8 @@
 ### 📰 Newsletter is placed at the bottom of the page! or click [here](https://github.com/user-attachments/files/24812555/Assignment.4.Newsletter.JCorp.Industry.Visit.pdf) to download 
 
 ## 🎉 Activites
+- Get to know the company environment - Company tour
+- Appetizing breakfast with scenic view of the Singapore-Malaysia border
+- Sharing session by two of Johor Corporation's executives
 
 ## 💡 Summary
