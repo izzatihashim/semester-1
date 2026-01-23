@@ -5,7 +5,7 @@
 **Venue:** Hyflex classroom, N28A <br>
 **Involvement:** All SECPH Students <br>
 **Task:** Poster for a summary of the whole session <br>
-### 🖼 Poster is placed at the bottom! 
+### 🖼 Poster is placed at the bottom of the page! 
 
 ## 💡 Summary
 - **Speaker 1: Introduction to PPG** <br>
