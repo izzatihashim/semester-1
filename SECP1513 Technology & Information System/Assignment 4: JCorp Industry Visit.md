@@ -7,4 +7,6 @@
 **Task:** Newsletter to sum up the whole visit <br>
 ### 📰 Newsletter is placed at the bottom of the page! or click [here](https://github.com/user-attachments/files/24812555/Assignment.4.Newsletter.JCorp.Industry.Visit.pdf) to download 
 
+## 🎉 Activites
+
 ## 💡 Summary
