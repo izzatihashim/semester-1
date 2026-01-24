@@ -25,7 +25,7 @@ At the end of the assessment, I was able to gain a deeper understanding and acqu
 - Organize an interactive activity, such as a Gallery Walk, where students can view each other’s posters and ask questions directly to the presenters about their work.
 
 ## 🖼 Poster
-[ULRS G6 Poster.pdf](https://github.com/user-attachments/files/24833850/ULRS.G6.Poster.pdf)
+![ULRS G6 Poster](https://github.com/user-attachments/assets/10b84559-265d-4870-b777-a6844616ddca)
 
 ## 🌷 Additional links 
 🔗 Poster Instruction: [here](https://github.com/user-attachments/files/24380090/2.a.Tugasan.kajian.kes_Poster.docx) <br>
