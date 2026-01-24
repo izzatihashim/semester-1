@@ -31,3 +31,6 @@ This talk was genuinely an eyes-opening session as I get to learnt about Project
  ![photo_2025-12-29_00-57-06](https://github.com/user-attachments/assets/3e2fbe4c-7b94-4868-bce4-20eacaa0d4ef)
  *Group photo with everyone involved in the session*
 
+## 🖇 Additional Links
+🔗 Instruction & Rubric: <br>
+🔗 Linkedin Post: <br>
