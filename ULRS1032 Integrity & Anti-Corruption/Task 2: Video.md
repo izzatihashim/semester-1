@@ -25,6 +25,8 @@ I had a lot of fun during the completion of this assignment as it involves many 
 ## 📌 Improvement Suggestions
 - Organize a class or activity session where students can watch each others' videos and discuss about it.
 
+## 📸 Visual Highlights
+
 ## 🖇 Additional Links
 🔗 Video Instruction: [here](https://github.com/user-attachments/files/24379997/3.a.Arahan.video.PSA.docx) <br>
 🔗 Actor's lines & Storylines: [here](https://docs.google.com/document/d/1RlRtoxsn96lyrwNrifzmKPbpuYqNoJVEXCqRtoXFESk/edit?usp=sharing) <br>
