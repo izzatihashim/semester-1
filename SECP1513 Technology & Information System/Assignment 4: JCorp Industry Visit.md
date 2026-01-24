@@ -18,6 +18,6 @@ A quick tour around the company was given by En. Azim, one of the staff member a
 
 ### 🗣 — Sharing session
 - Speaker 1: Mr. Budiman Bujang, Deputy Chief Digital Officer
-- The sharing session highlighted the core technical aspect of the Corporation, whereas Mr. Budiman talks about how the company leverages on technology to support their businesses, involving decision-making, automation and analytics.
-- 
+- The sharing session highlighted the core technical aspect of the Corporation, whereas Mr. Budiman talks about how the company leverages on technology to support their businesses, involving decision-making, automation and analytics. He shared with us their evolution of digital strategy that enhance their business value, focusing on the digital empowerment on 3 main pillars, which are People, Process and Innovation. The technologies that do the work of extracting values from the pillars are the Tria Initiative, which are AI, Automation and Analytics. In addition, he also shared the digital transformation of JCorp and we were able to see how the company moves from one digital era to another, while also learning the reason for each shiftment. As for 2026, JCorp are focusing on establishing its own Command Centre, which is a centralized system that brings together many integration of advanced technologies such as AI, advanced analytics, real-time data insights and automated anomaly detection. 
+
 - Speaker 2: Mr. Ahmad Yusri Mohamed, Chief Digital Officer
