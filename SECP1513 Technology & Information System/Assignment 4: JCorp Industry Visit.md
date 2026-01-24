@@ -24,3 +24,5 @@ The sharing session highlighted the core technical aspect of the Corporation, wh
 - Speaker 2: Mr. Ahmad Yusri Mohamed, Chief Digital Officer <br>
 
 Mr. Yusri's sharing session revolves more on the human behavior aspect, where he shared with us a few advices and experiences that a person must posesses to thrive on the industry. He told us the value of communication and the art of persuading people that a great leader must acquire, as we need to "sell" out our company or work to others. Moreover, he also advised us to not be close-minded and be open, as it will open doors to a lot more unexpected opportunities. He told us we might come across a situation where our work field may not align with what we study, and that's where we must be brave and try to see the opportunity in a new lights, because no one actually knows what lies ahead of us. 
+
+## 📝 Reflections
