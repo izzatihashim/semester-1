@@ -37,3 +37,6 @@ This design thinking project has helped me gain a clearer understanding of how t
 *Prototype testing*
 
 ## 🖇 Additional Links
+🔗 Report:
+🔗 Presentation Slides: 
+🔗 Instruction & Rubric:
