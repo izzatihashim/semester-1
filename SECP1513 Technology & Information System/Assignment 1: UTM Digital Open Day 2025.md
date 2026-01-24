@@ -63,5 +63,6 @@ Some of the pictures during the visit.
 ![photo_2025-12-30_17-40-15](https://github.com/user-attachments/assets/6e1da23c-9d72-4dbc-a207-dac3eda46c71)
 *Interview session with one of the staff at the booth*
 
-
-
+## 🖇 Additional Links
+🔗 Instruction & Rubric: <br>
+🔗 Linkedin Post: <br>
