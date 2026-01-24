@@ -2,7 +2,7 @@
 ## 🏢 Details
 **Involvements:** ULRS1032 Section 14 <br>
 **Task:** To design a poster on the topic of Corruption in Sports <br>
-### 🖼 View our poster at the bottom of the page!
+### 🖼 View our [presentation](https://drive.google.com/file/d/1qDJHRLL3kGGCAYOE27ut2AzGMVNjR026/view?usp=sharing) of the poster
 
 ## 👥 Task Distribution
 We distributed the tasks between team members to ensure equal amount of workload is given to each member.
