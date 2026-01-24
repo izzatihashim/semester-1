@@ -2,6 +2,7 @@
 ## 🏢 Details
 **Involvements:** ULRS1032 Section 14 <br>
 **Task:** to create a PSA video on the topic of Corruption in Sports <br>
+### 📸 Click [here](https://drive.google.com/file/d/1sPp-Wh0E7S0Q1zIaSSGHQeb9mkttDUl9/view?usp=drive_link) to watch our full video!
 
 ## 👥 Task Distribution
 We distributed the tasks between team members to ensure equal amount of workload is given to each member.
@@ -28,4 +29,3 @@ I had a lot of fun during the completion of this assignment as it involves many 
 🔗 Video Instruction: [here](https://github.com/user-attachments/files/24379997/3.a.Arahan.video.PSA.docx) <br>
 🔗 Actor's lines & Storylines: [here](https://docs.google.com/document/d/1RlRtoxsn96lyrwNrifzmKPbpuYqNoJVEXCqRtoXFESk/edit?usp=sharing) <br>
 🔗 Footage & Progress: [here](https://drive.google.com/drive/folders/1DHIjzpqgfz-e7zbxn4nbgMVvghhcwsbm) <br>
-🔗 Full video: [here](https://drive.google.com/file/d/1sPp-Wh0E7S0Q1zIaSSGHQeb9mkttDUl9/view?usp=drive_link) <br>
