@@ -1,7 +1,7 @@
 /* NAME: NURUL IZZATI LIYANA BINTI HASHIM
 MATRIC NO.: A25CS0336
 SET: 3
-DATE: */
+DATE: 11 NOVEMBER 2025 */
 
 // This program reads an integer number and then calculate the product of its digits
 // It will then identify whether the product of digits for the integer is a multiple of 4, 5, and/ or 7
