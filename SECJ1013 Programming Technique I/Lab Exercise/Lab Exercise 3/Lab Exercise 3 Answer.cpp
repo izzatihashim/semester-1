@@ -1,3 +1,6 @@
+/* NAME: NURUL IZZATI LIYANA BINTI HASHIM
+MATRIC NO.: A25CS0336
+DATE: 19 DECEMBER 2025 */
 // This program is to the Ministry of Health (MOH) to determine the status of a zone by calculating the number of active cases for COVID 19
 
 #include <iostream>
