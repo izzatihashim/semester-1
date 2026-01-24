@@ -2,7 +2,7 @@
 ## 🏢 Details
 **Involvements:** ULRS1032 Section 14 <br>
 **Task:** To design a poster on the topic of Corruption in Sports <br>
-## View our poster at the bottom of the page!
+## 🖼 View our poster at the bottom of the page!
 
 ## 👥 Task Distribution
 We distributed the tasks between team members to ensure equal amount of workload is given to each member.
@@ -24,8 +24,9 @@ At the end of the assessment, I was able to gain a deeper understanding and acqu
 ## 📌 Improvement Suggestions
 - Organize an interactive activity, such as a Gallery Walk, where students can view each other’s posters and ask questions directly to the presenters about their work.
 
-## 🌷 Links to our poster's project! 
+## 🖼 Poster
+[ULRS G6 Poster.pdf](https://github.com/user-attachments/files/24833850/ULRS.G6.Poster.pdf)
+
+## 🌷 Additional links 
 🔗 Poster Instruction: [here](https://github.com/user-attachments/files/24380090/2.a.Tugasan.kajian.kes_Poster.docx) <br>
 🔗 Google Form: [here](https://docs.google.com/forms/d/e/1FAIpQLScZP8fd0IBJKpL9mN61zexkr1Z10aZg2yzb1rtfdZswbS4Odw/viewform?fbzx=-843493291970799666) <br>
-🔗 Poster: [here](https://drive.google.com/file/d/1yIdepeH6WH-JBjmli0dRjCMsSrQ2kYHJ/view?usp=drive_link) <br>
-
