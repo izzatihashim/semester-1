@@ -4,7 +4,7 @@
 **Venue:** UTM Digital <br>
 **Involvements:** SECP1513 Section 02 students accompanied by Dr.Aryati <br>
 **Task:** Video about the whole experience of the visit <br>
-### 📸 Click [here](https://drive.google.com/file/d/1hRu-_rVxqcKt66pd2ia4POl44Ztk53KN/view?usp=drive_link) to watch the full video!
+### 📸 Click [here](https://drive.google.com/file/d/1hRu-_rVxqcKt66pd2ia4POl44Ztk53KN/view?usp=drive_link) to watch the video on the Digital Open Day!
 
 ## 🎉 Activities
 - Fun activities organized by UTM Digital staffs with small prizes. <br>
