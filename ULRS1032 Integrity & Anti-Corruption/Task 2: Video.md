@@ -2,7 +2,7 @@
 ## 🏢 Details
 **Involvements:** ULRS1032 Section 14 <br>
 **Task:** to create a PSA video on the topic of Corruption in Sports <br>
-### 📸 Click [here](https://drive.google.com/file/d/1sPp-Wh0E7S0Q1zIaSSGHQeb9mkttDUl9/view?usp=drive_link) to watch our full video!
+### 📸 Click [here](https://drive.google.com/file/d/1T9sY3fB3oNQ4rx8J9kgARNOd5y_OVMAX/view?usp=sharing) to watch our full video!
 
 ## 👥 Task Distribution
 We distributed the tasks between team members to ensure equal amount of workload is given to each member.
