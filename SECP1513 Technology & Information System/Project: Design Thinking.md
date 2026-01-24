@@ -36,4 +36,4 @@ This design thinking project has helped me gain a clearer understanding of how t
 ![photo_2025-12-31_14-14-33](https://github.com/user-attachments/assets/4d6bbf57-185a-42fb-9563-d37f47fe7e25)
 *Prototype testing*
 
-## Additional Links
+## 🖇 Additional Links
