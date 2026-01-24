@@ -18,4 +18,4 @@ A quick tour around the company was given by En. Azim, one of the staff member a
 
 ### 🗣 — Sharing session
 - Speaker: Mr. Budiman Bujang, Deputy Chief Digital Officer
-- Speaker: Encik Yusri Mohamed, Chief Director Officer
+- Speaker: Mr. Ahmad Yusri Mohamed, the Chief Digital Officer
