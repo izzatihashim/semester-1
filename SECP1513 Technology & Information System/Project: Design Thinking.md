@@ -37,6 +37,7 @@ This design thinking project has helped me gain a clearer understanding of how t
 *Prototype testing*
 
 ## 🖇 Additional Links
-🔗 Report: <br>
+🔗 Report: [here](https://github.com/user-attachments/files/24842183/Design.Thinking.Final.Report.pdf) <br>
 🔗 Presentation Slides: <br>
-🔗 Instruction & Rubric: <br>
+🔗 Instruction & Rubric: [here](https://github.com/user-attachments/files/24842184/Design.Thinking.Project.docx) <br>
+
