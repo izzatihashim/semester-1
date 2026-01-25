@@ -42,4 +42,4 @@ This session has given me a clearer view on the PPG as a global company. Not onl
 
 ## 🖇 Additional Links
 🔗 Instruction & Rubric: [here](https://github.com/user-attachments/files/24847631/Assignment.2.Poster.PPG.docx) <br>
-🔗 Linkedin Post: <br>
+🔗 Linkedin Post: [here](https://www.linkedin.com/posts/izzatiliyana06_on-the-20th-november-2025-i-had-the-opportunity-activity-7411807265806008320-VMl7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjktyEB2wwgCj5tdjsnpKz1CYc-JgJN83I) <br>
