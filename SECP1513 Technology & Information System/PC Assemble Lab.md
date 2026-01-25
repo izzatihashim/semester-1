@@ -25,4 +25,4 @@ From this lab session, I gained a very valuable experience as I was able to appl
 *Quiz session at the end of the session*
 
 ## 🖇 Additional Links
-🔗 Linkedin Post: 
+🔗 Linkedin Post: [here](https://www.linkedin.com/posts/izzatiliyana06_on-the-30th-of-october-i-had-the-opportunity-activity-7401295465075625984-gkf1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjktyEB2wwgCj5tdjsnpKz1CYc-JgJN83I)
