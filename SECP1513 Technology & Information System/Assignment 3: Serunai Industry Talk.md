@@ -32,5 +32,5 @@ This talk was genuinely an eyes-opening session as I get to learnt about Project
  *Group photo with everyone involved in the session*
 
 ## 🖇 Additional Links
-🔗 Instruction & Rubric: <br>
+🔗 Instruction & Rubric: [here](https://github.com/user-attachments/files/24847567/Assignment.3.Academic.Writing.docx) <br>
 🔗 Linkedin Post: <br>
