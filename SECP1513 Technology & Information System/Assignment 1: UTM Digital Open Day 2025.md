@@ -64,5 +64,4 @@ Some of the pictures during the visit.
 *Interview session with one of the staff at the booth*
 
 ## 🖇 Additional Links
-🔗 Instruction & Rubric: <br>
-🔗 Linkedin Post: <br>
+🔗 Instruction & Rubric: [here](https://github.com/user-attachments/files/24847619/Assignment.1.UTM.Digital.docx) <br>
