@@ -39,5 +39,6 @@ This design thinking project has helped me gain a clearer understanding of how t
 ## 🖇 Additional Links
 🔗 Report: [here](https://github.com/user-attachments/files/24842183/Design.Thinking.Final.Report.pdf) <br>
 🔗 Presentation Slides: [here](https://www.canva.com/design/DAG_ZVcVLzU/-hqL3yXRvDY2f1FCi-yKTg/edit?utm_content=DAG_ZVcVLzU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <br>
+🔗 Prototype: [here](https://www.canva.com/design/DAG_ZeNvIG0/OlsFEeVHCbAN8DzCrs1XEA/edit?utm_content=DAG_ZeNvIG0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <br>
 🔗 Instruction & Rubric: [here](https://github.com/user-attachments/files/24842184/Design.Thinking.Project.docx) <br>
 
