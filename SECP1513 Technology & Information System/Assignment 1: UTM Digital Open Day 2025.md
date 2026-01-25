@@ -65,3 +65,4 @@ Some of the pictures during the visit.
 
 ## 🖇 Additional Links
 🔗 Instruction & Rubric: [here](https://github.com/user-attachments/files/24847619/Assignment.1.UTM.Digital.docx) <br>
+🔗 Linkedin Post: [here](https://www.linkedin.com/posts/izzatiliyana06_utm-utmdigital-utmdigitalopenday2025-activity-7401141050637053952-1PNk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjktyEB2wwgCj5tdjsnpKz1CYc-JgJN83I) <br>
