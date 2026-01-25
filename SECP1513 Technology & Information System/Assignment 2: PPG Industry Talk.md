@@ -41,5 +41,5 @@ This session has given me a clearer view on the PPG as a global company. Not onl
 ![TIS G9 Poster_page-0001](https://github.com/user-attachments/assets/9123e5f9-dbc7-48f1-ba1d-27e5a86bb452)
 
 ## 🖇 Additional Links
-🔗 Instruction & Rubric: <br>
+🔗 Instruction & Rubric: [here](https://github.com/user-attachments/files/24847631/Assignment.2.Poster.PPG.docx) <br>
 🔗 Linkedin Post: <br>
