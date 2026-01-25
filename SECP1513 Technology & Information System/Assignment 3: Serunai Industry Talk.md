@@ -33,4 +33,4 @@ This talk was genuinely an eyes-opening session as I get to learnt about Project
 
 ## 🖇 Additional Links
 🔗 Instruction & Rubric: [here](https://github.com/user-attachments/files/24847567/Assignment.3.Academic.Writing.docx) <br>
-🔗 Linkedin Post: <br>
+🔗 Linkedin Post: [here](https://www.linkedin.com/posts/izzatiliyana06_on-the-18th-december-2025-i-attended-my-activity-7411811305508139008-xQK9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjktyEB2wwgCj5tdjsnpKz1CYc-JgJN83I) <br>
