@@ -20,7 +20,7 @@ Chapter 8: Cloud Computing <br>
 | Assignment 2 | PPG Industry Talk | Poster | Grouping | Done
 | Assignment 3 | Serunai Industry Talk | Academic Writing | Grouping | Done
 | Assignment 4 | JCorp Industry Visit | Newsletter | Individual | Done
-| Project | Design Thinking | Video, report, presentation | Grouping | In progress
+| Project | Design Thinking | Video, report, presentation | Grouping | Done
 | Lab | PC Assemble | Quiz | Individual | Done
 | Midterm | Summative Test | Test | Individual | Done
 | Portfolio | Github, Linkedin, Personal website | e-Portfolio | Individual | Done
