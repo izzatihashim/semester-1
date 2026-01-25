@@ -24,7 +24,7 @@ Chapter 9: Shift Registers <br>
 | Quiz 2 | Individual | Done
 | Quiz 3 | Individual | Done
 | Test | Individual | Done
-| Project | Grouping | In progress
+| Project | Grouping | Done
 | Final Exam | Individual | Not yet started
 
 ## 🌟 Reflection of the course
