@@ -40,3 +40,5 @@ The whole industry visit has given me a very a huge exposure to the real-world w
 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/59c55973-0e2c-4d0c-be14-4a1bed442d8f" /> <br>
 *Company tour*
+
+## 🖇 Additional Links
