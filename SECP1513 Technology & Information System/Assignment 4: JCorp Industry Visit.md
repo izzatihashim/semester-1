@@ -27,3 +27,5 @@ Mr. Yusri's sharing session revolves more on the human behavior aspect, where he
 
 ## 📝 Reflections
 The whole industry visit has given me a very a huge exposure to the real-world work-life settings, where I can start to vision myself on where I would want myself to be at in the next 3 years. Not only that, I have also gained a lot of valuable knowledge related to my field, especially on the part where the speaker shared about the digital application and development of their company. I learned about the trend in digital transformation, the type of computer and enterprise system used in the company as well as their data process management, all relating to my field of study. Although there are a few topics that are a bit difficult to grasp, due to it being still yet to be covered in our first semester, such as the System Architecture in details and Artificial Inteligence, however being given an early exposure to these topics would help a lot as I progress further into my studies. Nevertheless, it was a well-spent visit and I'm really looking forward for another opportunity like this ahead.
+
+## 📌 Improvement Suggestions
