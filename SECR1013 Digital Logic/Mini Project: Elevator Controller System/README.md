@@ -12,4 +12,4 @@
 | 4 | Najla Auni binti Mohammad Asri
 
 ## ⏳ Chronology
-**Our problem statement:** <br>
+**Our problem statement:** To enhance an elevator controller system from 2-bit to 3-bit that can support movement between 8 floors of a hotel building, while also enhancing the security system by adding several new features such as PIN-based lock, visitor hotel card detector and opening or closing of door indicator. <br>
