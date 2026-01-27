@@ -42,3 +42,5 @@ The whole industry visit has given me a very a huge exposure to the real-world w
 *Company tour*
 
 ## 🖇 Additional Links
+🔗 Instruction & Rubric: [here](https://github.com/user-attachments/files/24881140/Assignment.4.Newsletter.JCorp.Industry.Visit.docx) <br>
+🔗 Linkedin Post:  <br>
