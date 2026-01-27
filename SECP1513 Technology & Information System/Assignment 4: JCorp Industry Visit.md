@@ -43,4 +43,4 @@ The whole industry visit has given me a very a huge exposure to the real-world w
 
 ## 🖇 Additional Links
 🔗 Instruction & Rubric: [here](https://github.com/user-attachments/files/24881140/Assignment.4.Newsletter.JCorp.Industry.Visit.docx) <br>
-🔗 Linkedin Post:  <br>
+🔗 Linkedin Post: [here](https://www.linkedin.com/posts/izzatiliyana06_jcorp-industry-visit-newsletter-activity-7419987824994693121-Q5Ww?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjktyEB2wwgCj5tdjsnpKz1CYc-JgJN83I) <br>
