@@ -32,3 +32,5 @@ The whole industry visit has given me a very a huge exposure to the real-world w
 - Add some fun activity that the students can participate to enhance two-way communication
 
 ## 📸 Visual Highlights
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/fa8862a5-bfa9-4007-97f2-e0e1f8c2c8e2" />
+*Sharing session by Mr. Ahmad Yusri*
