@@ -13,7 +13,7 @@ We distributed the tasks between team members to ensure every our project can be
 
 ## ⏳ Chronology
 **Our problem statement:** <br>
-Our group worked on the theme “Smart Campus Data Solution: Improving Student Experience through Data.” After discussions and brainstorming, we identified that many study areas on campus are overcrowded during peak hours. Students also find it difficult to locate study spaces that match their needs, such as quiet areas for individual study or discussion spaces for group work. Therefore, our goal is to develop a solution that helps students easily find suitable study spaces and improves the overall use of study areas at UTM. <br>
+> Our group worked on the theme “Smart Campus Data Solution: Improving Student Experience through Data.” After discussions and brainstorming, we identified that many study areas on campus are overcrowded during peak hours. Students also find it difficult to locate study spaces that match their needs, such as quiet areas for individual study or discussion spaces for group work. Therefore, our goal is to develop a solution that helps students easily find suitable study spaces and improves the overall use of study areas at UTM. <br>
 *We conducted our project through 5 stages in the design thinking process*
 - **Stage 1:** Emphathy <br>
 We created a Google Form and conducted interviews to collect students’ opinions and experiences when searching for study spaces. The questions focused on their awareness of available study spaces, study preferences, and behavior during peak hours. This helped us understand students’ real needs and challenges.
