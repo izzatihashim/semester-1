@@ -53,7 +53,6 @@ The whole visit has gave me a very great experience with lots of new takeaways f
 - Add more interactive booths where students can be actively involved and interesting prizes or activities that can attract more students especially for the sharing session
 
 ## 📸 Visual Highlights
-Some of the pictures during the visit.
 ![photo_2025-12-28_20-06-28](https://github.com/user-attachments/assets/d48b8f2f-c0d6-4bbd-91bb-f256287279c4)
 *Sharing session on the topic of Real Insights of Data Engineering by  Mr. Zahari bin Supene*
 
