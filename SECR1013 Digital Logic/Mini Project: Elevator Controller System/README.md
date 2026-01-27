@@ -13,6 +13,6 @@
 
 ## ⏳ Chronology
 **Our problem statement:**
-To enhance an elevator controller system from 2-bit to 3-bit that can support movement between 8 floors of a hotel building, while also enhancing the security system by adding several new features such as PIN-based lock, visitor hotel card detector and opening or closing of door indicator. <br>
+> To enhance an elevator controller system from 2-bit to 3-bit that can support movement between 8 floors of a hotel building, while also enhancing the security system by adding several new features such as PIN-based lock, visitor hotel card detector and opening or closing of door indicator. <br>
 
 **Stage 1:** The first stage is about understanding the problem statement and designing the solution for it. This stage require us to use several techniques in Digital Logic which are drawing K-Maps, constructing transition table and deriving Boolean Expression. After the workings are completed, we implemented it in the Deeds Simulator application to generate a complete circuit based on it. It took us several tries to finally gets the final fully functioning circuit after multiple discussions and corrections on our workings, mostly on the K-Maps and table. <br>
