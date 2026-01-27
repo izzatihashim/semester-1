@@ -34,3 +34,6 @@ The whole industry visit has given me a very a huge exposure to the real-world w
 ## 📸 Visual Highlights
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/fa8862a5-bfa9-4007-97f2-e0e1f8c2c8e2" />
 *Sharing session by Mr. Ahmad Yusri*
+
+<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/f359853b-d9f3-47b5-8ea6-62bdb9e6e921" />
+*Group photo with everyone involved in the visit*
