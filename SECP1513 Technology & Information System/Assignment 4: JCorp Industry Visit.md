@@ -30,3 +30,5 @@ The whole industry visit has given me a very a huge exposure to the real-world w
 
 ## 📌 Improvement Suggestions
 - Add some fun activity that the students can participate to enhance two-way communication
+
+## 📸 Visual Highlights
