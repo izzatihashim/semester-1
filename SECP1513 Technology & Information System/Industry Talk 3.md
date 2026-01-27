@@ -3,5 +3,5 @@
 **Date:** 14 January 2026 <br>
 **Time:** 8am <br>
 **Venue:** Google Meet <br>
-**Involvements:**  <br>
+**Involvements:** All SECPH Students <br>
 **Task:**  <br>
