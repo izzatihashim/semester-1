@@ -17,3 +17,5 @@
 
 - **Stage 1: Getting the solution** <br>
 The first stage is about understanding the problem statement and designing the solution for it. This stage require us to use several techniques in Digital Logic which are drawing K-Maps, constructing transition table and deriving Boolean Expression. After the workings are completed, we implemented it in the Deeds Simulator application to generate a complete circuit based on it. It took us several tries to finally gets the final fully functioning circuit after multiple discussions and corrections on our workings, mostly on the K-Maps and table. <br>
+
+- **Stage 2: Writing the report** <br>
