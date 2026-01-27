@@ -32,8 +32,11 @@ The whole industry visit has given me a very a huge exposure to the real-world w
 - Add some fun activity that the students can participate to enhance two-way communication
 
 ## 📸 Visual Highlights
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/fa8862a5-bfa9-4007-97f2-e0e1f8c2c8e2" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/fa8862a5-bfa9-4007-97f2-e0e1f8c2c8e2" /> <br>
 *Sharing session by Mr. Ahmad Yusri*
 
-<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/f359853b-d9f3-47b5-8ea6-62bdb9e6e921" />
+<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/f359853b-d9f3-47b5-8ea6-62bdb9e6e921" /> <br>
 *Group photo with everyone involved in the visit*
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/59c55973-0e2c-4d0c-be14-4a1bed442d8f" /> <br>
+*Company tour*
