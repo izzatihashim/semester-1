@@ -4,4 +4,3 @@
 **Time:** 8am <br>
 **Venue:** Google Meet <br>
 **Involvements:** All SECPH Students <br>
-**Task:**  <br>
