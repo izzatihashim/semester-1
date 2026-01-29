@@ -20,6 +20,12 @@ The first stage is about understanding the problem statement and designing the s
 
 - **Stage 2: Writing the report** <br>
 Once we are getting the perfect solution and the circuit design of the problem, we then started our report writing for the project. Tasks were distributed equally among team members to ensure everyone gets a decent amount of work to work on. Task distributions are as follows;
+| Name | Task
+| :--- | :---
+| Liyana |
+| Farah |
+| Nazirah |
+| Najla |
 
 - **Stage 3: Creating the video** <br> 
 
