@@ -19,6 +19,7 @@
 The first stage is about understanding the problem statement and designing the solution for it. This stage require us to use several techniques in Digital Logic which are drawing K-Maps, constructing transition table and deriving Boolean Expression. After the workings are completed, we implemented it in the Deeds Simulator application to generate a complete circuit based on it. It took us several tries to finally gets the final fully functioning circuit after multiple discussions and corrections on our workings, mostly on the K-Maps and table. <br>
 
 - **Stage 2: Writing the report** <br>
+Once we are getting the perfect solution and the circuit design of the problem, we then started our report writing for the project. Tasks were distributed equally among team members to ensure everyone gets a decent amount of work to work on. Task distributions are as follows;
 
 - **Stage 3: Creating the video** <br> 
 
