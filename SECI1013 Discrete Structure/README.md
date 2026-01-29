@@ -21,7 +21,6 @@ Chapter 5: Finite Automata <br>
 | Assignment 1 | Grouping | Done
 | Assignment 2 | Grouping | Done
 | Assignment 3 | Grouping | Done
-| Assignment 4 | Grouping | Not yet started
 | Final Exam | Individual | Not yet started
 
 ## 🌟 Reflection of the course
