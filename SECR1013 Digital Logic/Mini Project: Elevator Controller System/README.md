@@ -21,3 +21,6 @@ The first stage is about understanding the problem statement and designing the s
 - **Stage 2: Writing the report** <br>
 
 - **Stage 3: Creating the video** <br> 
+
+
+## Reflection
