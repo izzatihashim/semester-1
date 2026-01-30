@@ -24,7 +24,7 @@ Once we are getting the perfect solution and the circuit design of the problem, 
 | Name | Task
 | :--- | :---
 | Liyana | Introduction, Problem Statement, Improvements
-| Farah | System Implementation, Strenghts
+| Farah | System Implementation, Strenghts & Weaknesses
 | Nazirah | 
 | Najla | 
 
