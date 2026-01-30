@@ -23,7 +23,7 @@ Once we are getting the perfect solution and the circuit design of the problem, 
 
 | Name | Task
 | :--- | :---
-| Liyana | Introduction
+| Liyana | Introduction, Problem Statement
 | Farah | 
 | Nazirah | 
 | Najla | 
