@@ -39,3 +39,4 @@ This project serve as a huge turning point in my learning journey as working in 
 - Provide a more detailed instruction, such as the grading rubrics and detailed instruction for a video especially since it has to be around 15 minutes (which is long but not much information on what to place in there)
 
 ## 🖇 Additional Links
+🔗 Presentation Slide: 
