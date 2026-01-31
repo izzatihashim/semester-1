@@ -23,9 +23,9 @@ Once we are getting the perfect solution and the circuit design of the problem, 
 
 | Name | Task
 | :--- | :---
-| Liyana | Introduction, Problem Statement, Improvements
+| Liyana | Background & Overview, Problem Statement, Improvements
 | Farah | System Implementation, Strenghts & Weaknesses
-| Nazirah | Acknowledgement
+| Nazirah | Acknowledgement, 
 | Najla | 
 
 - **Stage 3: Creating the video** <br> 
