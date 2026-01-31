@@ -39,4 +39,4 @@ This project serve as a huge turning point in my learning journey as working in 
 - Provide a more detailed instruction, such as the grading rubrics and detailed instruction for a video especially since it has to be around 15 minutes (which is long but not much information on what to place in there)
 
 ## 🖇 Additional Links
-🔗 Presentation Slide: 
+🔗 Presentation Slide: https://www.canva.com/design/DAG_-3wdbRs/pNez2V-9cfLKGyCjMt5S0A/edit?utm_content=DAG_-3wdbRs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
