@@ -29,6 +29,6 @@ Once we are getting the perfect solution and the circuit design of the problem, 
 | Najla | Suggested Solution (Explanation), Conclusion
 
 - **Stage 3: Creating the video** <br> 
-
+The last stage of the project is to create a video that explains and concludes what we had obtained so far, primarily referencing to the structure of our report. For our video, we used Canva as our medium of delivering and presenting our contents, each member explaining the topics corresponding to the same distributed task for report writing. We concludes and take the vital points from our reports and write them in a slide presentation form and then explain our findings based on our comprehension and discussions. Our 13 minutes video convers all the essential parts with regard to what have been asked in the instruction rubrics. In addition, we also tried to keep the lengthy video as interesting as possible by using colourful and engaging elements to attract the attention of our audience.
 
 ## 📝 Reflections
