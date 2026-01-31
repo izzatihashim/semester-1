@@ -36,4 +36,6 @@ This project serve as a huge turning point in my learning journey as working in 
 
 ## 📌 Improvement Suggestions
 - Organize an acitivy or a session where students' can view each other's work as a method to further enhance and broaden their understanding
+- Provide a more detailed instruction, such as the grading rubrics and detailed instruction for a video especially since it has to be around 15 minutes (which is long but not much information on what to place in there)
+
 
