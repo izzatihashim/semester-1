@@ -26,7 +26,7 @@ Once we are getting the perfect solution and the circuit design of the problem, 
 | Liyana | Background & Overview, Problem Statement, Improvements
 | Farah | System Implementation, Strenghts & Weaknesses
 | Nazirah | Acknowledgement, Suggested Solution (Drawings), Achievements
-| Najla | Suggested Solution (Explanation)
+| Najla | Suggested Solution (Explanation), Conclusion
 
 - **Stage 3: Creating the video** <br> 
 
