@@ -1,4 +1,6 @@
 # 💻 SECJ1013 Programming Technique I
+**Language:** C++
+
 ## 👩‍🏫 About the course
 **Lecturer:** Dr. Muhammad Luqman bin Mohd Shafie <br>
 **Section:** 02 <br>
