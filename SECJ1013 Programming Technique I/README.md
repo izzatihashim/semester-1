@@ -1,6 +1,6 @@
 # 💻 SECJ1013 Programming Technique I
-**Language:** C++
-**IDE:** Visual Studio Code
+**Language:** C++ <br>
+**IDE:** Visual Studio Code <br>
 
 ## 👩‍🏫 About the course
 **Lecturer:** Dr. Muhammad Luqman bin Mohd Shafie <br>
